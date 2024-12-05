@@ -1,0 +1,72 @@
+body {
+  background-color: #DDAC17;
+  padding: 16px;
+}
+
+header {
+  padding: 16px;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.subtitulo {
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  color:BLACK;
+    
+}
+p { 
+  color:DDAC17
+l}
+  header{
+    background-color:#ECC440;
+    color:#ECC440;
+  }
+  nav {
+    margin:10px 0;
+    text-align:center;
+  }
+    nav a{
+      margin :0 15px:
+        color:ECC440;
+    }
+    nav a:hover{
+      color:
+        text-decoration:underline;
+    }
+img{
+    width:80px;
+}
+      img{
+        width:400px;
+          heigh:500px;
+          border-radius:16px;
+      }
+      h1{
+        font-size:24px;
+          color:#DDAC17
+          font-family:cursive;
+      }
+      p{
+        font-site:16px;
+        font-family:cursive;
+      }
+      body{
+        background-color:DDAC17
+      }
+      button{
+        text-decoration: none;
+        color: black;
+        background-color:white;
+        border-radius:8px;
+        padding:16px;
+      }
+      
+      
+          
+    
