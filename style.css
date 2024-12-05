@@ -1,7 +1,6 @@
 body {
   background-color: #DDAC17;
   padding: 16px;
-  font-family: Arial, sans-serif;
 }
 
 header {
@@ -17,7 +16,7 @@ header {
 
 .subtitulo {
   text-align: center;
-  color: #333;
+  color: black;
 }
 
 nav {
@@ -37,7 +36,7 @@ nav a:hover {
 
 img {
   width: 400px;
-  height: auto;
+  height: 500px;
   border-radius: 16px;
 }
 
